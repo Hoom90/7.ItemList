@@ -1,0 +1,14 @@
+.card-list{
+    padding: 1rem;
+    margin-block: 1rem;
+    margin-inline: 2rem;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+    font-size: 1.6rem;
+    border-radius: 1rem;
+    background-color: #e0e0e0;
+    color: #212121;
+}

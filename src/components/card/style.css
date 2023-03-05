@@ -1,0 +1,32 @@
+.card{
+    width: 290px;
+    padding: 10px;
+    border: 1px solid grey;
+    border-radius: 1rem;
+    font-size: .8rem;
+    background-color: white;
+    box-shadow: 0 0 1rem black;
+}
+.img img {
+    max-width: 200px;
+    border-radius: .5rem;
+    box-shadow: 0 0 .5rem;
+}
+.title{
+    padding: .5rem;
+}
+.addnew{
+    bottom: 0;
+    padding: .3rem 2rem;
+    border-radius: 1rem;
+    box-shadow: 0 0 .3rem black;
+    border: .1rem solid gray;
+    transition: .2s;
+    cursor: pointer;
+}
+.addnew:hover{
+    background-color: dodgerblue;
+    color: #ffffff;
+    box-shadow: none;
+
+}
